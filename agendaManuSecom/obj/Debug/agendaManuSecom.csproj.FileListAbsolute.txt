@@ -1,0 +1,12 @@
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\bin\Debug\agendaManuSecom.exe.config
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\bin\Debug\agendaManuSecom.exe
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\bin\Debug\agendaManuSecom.pdb
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.csprojAssemblyReference.cache
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.cadAgenda.resources
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.cadTecnico.resources
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.Form1.resources
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.Properties.Resources.resources
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.csproj.GenerateResource.cache
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.csproj.CoreCompileInputs.cache
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.exe
+C:\Users\leopr\Source\Repos\agendaManuSecom\agendaManuSecom\obj\Debug\agendaManuSecom.pdb
